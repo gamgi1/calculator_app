@@ -1,0 +1,60 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+section{
+  width: 250px;
+  height: 350px;
+}
+h2{
+  color: white;
+  text-align: right;
+  line-height: 90px;
+  font-size: 60px;
+}
+button {
+    width: 50px;
+    height: 50px;
+    background: none;
+    cursor: pointer;
+    font-family: 'Oswald', sans-serif;
+    /*font-family: 'voltaeftu-regular', Times New Roman;*/
+    font-size: 16px;
+    color: #fff;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.btn button{
+  color: black;
+}
+.orange button{
+  color: white;
+}
+.input_area{
+  width: 219px;
+  height: 100px;
+  color: white;
+  background-color: black;
+}
+
+.btn {
+  width: 50px;
+  height: 50px;
+  background-color: #E4E4EE;
+  display: inline-block;
+  padding: 0px;
+  margin: 0px;
+  border: 1px solid black;
+}
+.btn.dark{
+  background-color: #A1A1A5;
+}
+.btn.orange{
+  background-color: #FF9900;
+  color: white;
+}
+
+.btn.large {
+  width: 106px;
+}
